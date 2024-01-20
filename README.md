@@ -1,2 +1,2 @@
-# photo-gallery-for-dennis
-A simple photo gallery made for Dennis, using JavaScript, HTML ,and CSS
+# photo-gallery
+A simple photo gallery made for a friend, using JavaScript, HTML ,and CSS
